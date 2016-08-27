@@ -36144,7 +36144,7 @@ for borrowings from their work
  <description>PRESENTATION FORM FOR VERTICAL RIGHT PARENTHESIS</description>
 </character>
 
-<character id="U0FE37" dec="65079" mode="math" type="other">
+<character id="U023DE" dec="65079" mode="math" type="other">
  <IEEE>\overbrace</IEEE>
  <Wolfram>OverBrace</Wolfram>
  <entity id="ovrcub" set="STIX">
@@ -36155,7 +36155,7 @@ for borrowings from their work
  <description>PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET</description>
 </character>
 
-<character id="U0FE38" dec="65080" mode="math" type="other">
+<character id="U023DF" dec="65080" mode="math" type="other">
  <IEEE>\underbrace</IEEE>
  <Wolfram>UnderBrace</Wolfram>
  <entity id="udrcub" set="STIX">
